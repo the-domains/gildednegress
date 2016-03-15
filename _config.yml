@@ -1,0 +1,28 @@
+name: gildednegress
+favicon: null
+layout_spectrum: 0.5707267236430198
+typography_spectrum: 0.40563457971438766
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5647671259939671
+  lightness: 0.7037522196769714
+  saturation: 0.7788757397793233
+  rhythmicContrast: 0.2130200976971537
+purpose: []
